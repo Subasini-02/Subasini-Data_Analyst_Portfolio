@@ -9,8 +9,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
-df_demographics =  pd.read_csv(r"C:Hackathon\Python\Dataset\cleaned\df_demographics.csv")
-df_diabetes = pd.read_csv(r"C:Hackathon\Python\Dataset\cleaned\merged_dataset.csv")
+df_demographics =  pd.read_csv(r"C:S\Python\Dataset\cleaned\df_demographics.csv")
+df_diabetes = pd.read_csv(r"C:S\Python\Dataset\cleaned\merged_dataset.csv")
 total_patients = len(df_demographics)
 
 ## Distribution of participants by age, gender, and race.
