@@ -3,6 +3,8 @@ This comprehensive data analysis project investigates the complex relationships 
 
 The analysis leverages Power BI's robust data modeling capabilities, DAX (Data Analysis Expressions) measures, and interactive visualization features to provide a multi-dimensional view of diabetes-related complications. By integrating metabolic markers (HbA1c, cholesterol, blood pressure), ophthalmological findings (retinopathy severity stages), and functional outcomes (cognitive scores, gait stability), this project delivers actionable clinical insights.
 
+![Sectionn_1](Section_1.png)  ![Sectionn_2](Section_2.png) ![Sectionn_3](Section_3.png) ![Sectionn_4](Section_4.png) 
+
 ### Dataset Characteristics:
 
 - **Sample Size:** 77 patients across multiple visits
@@ -100,5 +102,3 @@ The analysis leverages Power BI's robust data modeling capabilities, DAX (Data A
 ### Conclusion
 
 This Power BI analytics project successfully demonstrates the interconnected nature of diabetic complications across metabolic, vascular, ophthalmological, and neurological systems.Poor metabolic management predicts multisystem decline, while better control is associated with near-normal function, highlighting the need for early intervention, targeted screening, and multi-organ monitoring in diabetic patients.Through comprehensive data cleaning, sophisticated modeling, and interactive visualization, the dashboard provides healthcare stakeholders with actionable insights for improving patient outcomes.
-argeted screening, and multi-organ monitoring in diabetic patients.with actionable insights for improving patient outcomes.
-
